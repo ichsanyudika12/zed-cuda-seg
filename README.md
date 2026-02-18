@@ -13,13 +13,9 @@
 ### Build & Run
 
     git clone https://github.com/ichsanyudika12/zed-cuda-seg.git
-    
     cd zed-cuda-seg
-    
     mkdir build && cd build
-    
     cmake ..
-    
     make
     
     ./main
